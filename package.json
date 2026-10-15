@@ -1,0 +1,12 @@
+{
+  "name": "tomasmarcos369",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node scripts/build-assets.mjs"
+  },
+  "type": "commonjs",
+  "devDependencies": {
+    "opentype.js": "^1.3.4"
+  },
+  "private": "true"
+}
