@@ -4,7 +4,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1100&color=36E27A&center=true&vCenter=true&width=620&height=46&lines=Programaci%C3%B3n+%2B+electr%C3%B3nica;Arduino+%C2%B7+C%2B%2B+%C2%B7+C%23+%C2%B7+Python;Me+gusta+hacer+juegos+y+cacharros" />
-  <img alt="Programación + electrónica · Arduino · C++ · C# · Python" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1100&color=0E8A46&center=true&vCenter=true&width=620&height=46&lines=Programaci%C3%B3n+%2B+electr%C3%B3nica;Arduino+%C2%B7+C%2B%2B+%C2%B7+C%23+%C2%B7+Python;Me+gusta+hacer+juegos+y+cacharros" />
+  <img alt="Programación + electrónica" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1100&color=0E8A46&center=true&vCenter=true&width=620&height=46&lines=Programaci%C3%B3n+%2B+electr%C3%B3nica;Arduino+%C2%B7+C%2B%2B+%C2%B7+C%23+%C2%B7+Python;Me+gusta+hacer+juegos+y+cacharros" />
 </picture>
 
 <a href="https://github.com/TomasMarcos369?tab=repositories"><img src="assets/btn-repos.svg" height="40" alt="Repositorios" /></a>&nbsp;
